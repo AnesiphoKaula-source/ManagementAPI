@@ -1,0 +1,12 @@
+ManagementAPI/
+│
+├── Controllers/
+│   └── UsersController.cs
+│
+├── Data/
+│   └── ApplicationDbContext.cs
+│
+├── Models/
+│   └── User.cs
+│
+└── Program.cs
